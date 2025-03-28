@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! This is an old Github account; please navigate to https://github.com/willeyzhou1. :D
 
 <!--
 **willersss/willersss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
